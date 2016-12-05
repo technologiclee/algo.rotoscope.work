@@ -6,14 +6,16 @@ layout: compress
 {% include head.html %}
 <body>
 <header>
+
   <div id="mySidenav" class="sidenav">
     <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
     {% include menu-links.html %}
   </div>
   <span id="slid" onclick="openNav()"><i class="fa fa-align-left" aria-hidden="true"></i></span>
-<a href="{{site.baseurl}}/"><h1 class="header-title">{{ site.title }}</h1></a>
+  <a href="{{site.baseurl}}/"><h1 class="header-title">{{ site.title }}</h1></a>
+
 </header>
-<div id="main" style='text-align: center;'>
+<div id="main" style="padding-left: 10%:">
   {{content}}
   {% include footer.html %}
 </div>
