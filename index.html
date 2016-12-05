@@ -5,6 +5,8 @@ layout: default
   <div class="grid" data-masonry='{ "itemSelector": ".grid-item", "percentPosition": true, "columnWidth": 250, "gutter": 20 }'>
        {% for post in site.posts %}
         <div class="grid-item color{{forloop.index}}">
+
+          -- {{ post }}--
             <style>.color{{forloop.index}}{background-color:{% if post.color %}#{{post.color}}{% else %} #3949AB {% endif %} }</style>
           {% if post.image_600 %}
             <img src="{{ post.image_600 }}" alt="{{ post.title }}" width="250">
