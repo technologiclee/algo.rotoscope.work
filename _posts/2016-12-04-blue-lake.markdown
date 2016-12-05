@@ -4,8 +4,8 @@ title:  "Blue Lake"
 description: The water and skies flow by between the mountains.
 date:   2016-11-04 02:37:00 +0700
 image: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/bluelake/bluelake-still.jpg
-image_1200: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/bluelake/bluelake-still-1200.png
-image_600: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/bluelake/bluelake-still-600.png
-video_mp4: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/bluelake/bluelake-publish.mp4
-video_youtube: https://youtu.be/Y0HWM9YqQtU
+image2: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/bluelake/bluelake-still-1200.png
+image3: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/bluelake/bluelake-still-600.png
+videoMP4: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/bluelake/bluelake-publish.mp4
+videoYoutube: https://youtu.be/Y0HWM9YqQtU
 ---
