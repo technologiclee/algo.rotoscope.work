@@ -5,6 +5,9 @@ url: http://algorithmic.rotoscope.work
 permalink: /:categories/:year/:month/:day/:title/
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 
+include: [_pages]
+
+version: 0.8
 paginate: 100
 paginate_path: "/updates/page:num"
 
@@ -15,6 +18,7 @@ org: kinlane
 repo: algo.rotoscope.work
 
 markdown: kramdown
+highlight: rouge
 baseurl: http://algorithmic.rotoscope.work
 
 sass:
@@ -31,11 +35,5 @@ compress_html:
   blanklines: false
   profile: false
   startings: []
-
-highlight: rouge
-
-include: [_pages]
-
-version: 0.8
 
 gems: [jekyll-paginate, jekyll-seo-tag]
