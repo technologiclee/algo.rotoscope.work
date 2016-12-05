@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: detail
 title:  "Methuselah"
 description: Flying over the oldest forest in the world with the sun at your back.
 date:   2016-11-04 07:31:00 +0700

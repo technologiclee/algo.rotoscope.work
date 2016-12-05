@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: detail
 title:  "Lighthouse"
 description: The beach beyond the lighthouse.
 date:   2016-11-04 07:11:00 +0700

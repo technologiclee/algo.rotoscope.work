@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: detail
 title:  "Diamond Creek"
 description: Up the creek through the old burn.
 date:   2016-11-04 02:37:00 +0700

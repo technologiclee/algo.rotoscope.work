@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: detail
 title:  "Columbia River Lookout"
 description: Puffy clouds compete with the barges coming down the Columbia River.
 date:   2016-11-04 04:29:00 +0700

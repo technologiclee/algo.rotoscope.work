@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: detail
 title:  "Gold & Silver Falls"
 description: Rising up through the trees and mist of the falls.
 date:   2016-11-04 06:46:00 +0700

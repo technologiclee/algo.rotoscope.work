@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: detail
 title:  "Smith River"
 description: Up the river into the woods.
 date:   2016-11-04 08:49:00 +0700

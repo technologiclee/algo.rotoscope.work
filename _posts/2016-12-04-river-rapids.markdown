@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: detail
 title:  "River Rapids"
 description: Floating the white water around the bend.
 date:   2016-11-04 08:45:00 +0700

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: detail
 title:  "Tree In Hills"
 description: A lone tree in the hills amongst the rocks.
 date:   2016-11-04 09:14:00 +0700

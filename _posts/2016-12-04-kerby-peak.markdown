@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: detail
 title:  "Kerby Peak"
 description: Up and around to the top of Kerby Peak to see the view.
 date:   2016-11-04 07:00:00 +0700

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: detail
 title:  "Mountain Lake"
 description: Across the trees, towards the mountain, to the lake in the back.
 date:   2016-11-04 07:33:00 +0700

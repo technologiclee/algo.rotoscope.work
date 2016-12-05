@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: detail
 title:  "Royal Roads"
 description: Hovering above the beautiful school in the woods.
 date:   2016-11-04 05:08:00 +0700

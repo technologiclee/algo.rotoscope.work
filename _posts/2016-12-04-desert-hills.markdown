@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: detail
 title:  "Desert Hills"
 description: Mountains in the dry, dry desert.
 date:   2016-11-04 02:37:00 +0700

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: detail
 title:  "Desert Run"
 description: Speeding through the hot desert.
 date:   2016-11-04 02:37:00 +0700

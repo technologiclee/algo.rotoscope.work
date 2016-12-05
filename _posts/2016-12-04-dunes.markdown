@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: detail
 title:  "The Dunes"
 description: Walking on the crest of the dunes.
 date:   2016-11-04 06:03:00 +0700
