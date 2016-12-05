@@ -1,2 +1,2 @@
-# karna
-Karna is a responsive jekyll theme which includes pinterest like pins
+# Algorithmic Rotoscope Work
+Tis is my algorithmic rotoscope work.
