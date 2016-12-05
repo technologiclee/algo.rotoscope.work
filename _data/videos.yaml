@@ -142,3 +142,30 @@
   videoMP4: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/treeinhills/tree-in-hills-publish-540.mp4
   videoYoutube: https://youtu.be/zO2AEyQxZZ8
   slug: tree-in-hills
+- title:  "Tunnel"
+  description: Into the heart of the woods.
+  date:   2016-11-05 02:28:00 +0700
+  image: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/tunnel/tunnel-purp-paper-still.jpg
+  image2: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/tunnel/tunnel-purp-paper-still-1200.png
+  image3: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/tunnel/tunnel-purp-paper-still-600.png
+  videoMP4: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/tunnel/tunnel-publish-540.mp4
+  videoYoutube: https://www.youtube.com/watch?v=0AXL5TyDVwA
+  slug: tunnel
+- title:  "Diving In"
+  description: Diving into the cold winter run off.
+  date:   2016-11-05 02:20:00 +0700
+  image: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/divingin/divingin-purple-pond-still.jpg
+  image2: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/divingin/divingin-purple-pond-sti-1200.png
+  image3: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/divingin/divingin-purple-pond-sti-600.png
+  videoMP4: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/divingin/divingin-publish-540.mp4
+  videoYoutube: https://www.youtube.com/watch?v=LrY6IRXyvww
+  slug: diving-in
+- title:  "Meadow"
+  description: Floating above the meadow towards the abandoned orchard.
+  date:   2016-11-05 02:33:00 +0700
+  image: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/meadow/meadow-bright-sand-still.jpg
+  image2: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/meadow/meadow-bright-sand-still.-1200.png
+  image3: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/meadow/meadow-bright-sand-still.-600.png
+  videoMP4: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/meadow/meadow-publish-540.mp4
+  videoYoutube: https://www.youtube.com/watch?v=KC3Hy62pSbE&t=32s
+  slug: meadow
