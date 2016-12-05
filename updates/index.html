@@ -2,10 +2,9 @@
 layout: default
 ---
 
-<h1>API Monitoring Blog Posts</h1>
-<a href="{{ site.url }}/data/blog-atom.xml" target="_blank" title="Blog Atom"><img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-atom-feed.png" width="50" style="padding: 5px;" align="right" /></a>
-<a href="{{ site.url }}/data/blog-opml.xml" target="_blank" title="Blog OPML"><img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-opml-icon.png" width="50" style="padding: 5px;" align="right" /></a>
-<p>These are posts from the API Evangelist blog that are focused on API monitoring, allowing for a filtered look at my analysis on the topic. I rely on these posts, along with the curated, organizations, APIs, and tools to help paint me a picture of what is going on.</p>
+<h1>Algorithmic Rotoscope Updates</h1>
+<a href="/atom.xml" target="_blank" title="Blog Atom"><img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-atom-feed.png" width="50" style="padding: 5px;" align="right" /></a>
+<p>Algorithmic Rotoscope runs on Github, and using Github Pages I provide the data behind this work, as well as updates using the Jekyll blog. I publish my regular thoughts regarding what I'm doing in this area here. You can subscribe to the atom feed above to get updates pushed your way.</p>
 <div class="posts">
   {% for post in paginator.posts %}
     {% if post.title != '' %}
