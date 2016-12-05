@@ -6,12 +6,12 @@ layout: default
        {% for post in site.posts %}
         <div class="grid-item color{{forloop.index}}">
             <style>.color{{forloop.index}}{background-color:{% if post.color %}#{{post.color}}{% else %} #3949AB {% endif %} }</style>
-         {% if post.img %}
-          <img src={{ "/images/" | prepend: site.baseurl | append: post.image_600 }} alt="{{post.title}}">
+          {% if post.image_600 %}
+            <img src="{{ post.image_600 }}" alt="{{ post.title }}" width="250">
           {% endif %}
            <div class="container">
-            <h4>{{post.title}}</h4>
-            <p>{{post.description}}</p>
+            <h4>{{ post.title }}</h4>
+            <p>{{ post.description }}</p>
              <div class="action">{{ post.date | date: '%B %d, %Y' }}<a href="{{post.url | prepend: site.baseurl}}"><i class="fa fa-arrow-right" aria-hidden="true"></i></a></div>
             </div>
 
