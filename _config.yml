@@ -1,11 +1,11 @@
 
 title: algorithmic rotoscope
 desctiption: This is my algorithmic rotoscope work.
-url: http://algo.rotoscope.work
+url: http://algorithmic.rotoscope.work
 permalink: ':title/'
 
 markdown: kramdown
-baseurl: http://algo.rotoscope.work
+baseurl: http://algorithmic.rotoscope.work
 
 sass:
     style: compressed
