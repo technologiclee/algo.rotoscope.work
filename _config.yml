@@ -24,18 +24,8 @@ compress_html:
 
 highlight: rouge
 
-
-# Tracker
-analytics:
-
-# Comments
-disqus-shortname:
-
-# Contact form
-# Go to https://getsimpleform.com and get a API token by signing up with your email and enter that here
-api-token:
-
 include: [_pages]
+
 version: 0.8
 
 gems: [jekyll-paginate, jekyll-seo-tag]
