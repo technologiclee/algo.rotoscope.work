@@ -5,12 +5,10 @@ url: http://algo.rotoscope.work
 permalink: ':title/'
 
 markdown: kramdown
-baseurl: "/karna"
-
+baseurl: http://algo.rotoscope.work
 
 sass:
     style: compressed
-
 
 #optimization
 #compress.html
