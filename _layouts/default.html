@@ -5,27 +5,17 @@ layout: compress
 <html lang="en">
 {% include head.html %}
 <body>
-<header style="padding: 5px 0px 0px 0px; margin: 5px 0px 0px 0px;">
-  <div id="mySidenav" class="sidenav">
-    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-    {% include menu-links.html %}
+  <header style="padding: 5px 0px 0px 0px; margin: 5px 0px 0px 0px;">
+    <div id="mySidenav" class="sidenav">
+      <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+      {% include menu-links.html %}
+    </div>
+    <span id="slid" onclick="openNav()"><i class="fa fa-align-left" aria-hidden="true"></i></span>
+    <a href="{{site.baseurl}}/"><h1 class="header-title" style="padding-top: 10px;">{{ site.title }}</h1></a>
+  </header>
+  <div id="main" style="padding-top: 0px; margin-top:0px;">
+    {{content}}
+    {% include footer.html %}
   </div>
-  <span id="slid" onclick="openNav()"><i class="fa fa-align-left" aria-hidden="true"></i></span>
-  <a href="{{site.baseurl}}/"><h1 class="header-title" style="padding-top: 10px;">{{ site.title }}</h1></a>
-</header>
-<div id="main" style="padding-top: 0px; margin-top:0px;">
-  {{content}}
-  {% include footer.html %}
-</div>
-<script>
-function openNav() {
-    document.getElementById("mySidenav").style.width = "250px";
-}
-function closeNav() {
-    document.getElementById("mySidenav").style.width = "0";
-}
-</script>
-<link href="http://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-{% include analytics.html %}
 </body>
 </html>
