@@ -1,8 +1,18 @@
-
 title: algorithmic rotoscope
 desctiption: This is my algorithmic rotoscope work.
 url: http://algorithmic.rotoscope.work
-permalink: ':title/'
+
+permalink: /:categories/:year/:month/:day/:title/
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+
+paginate: 100
+paginate_path: "/updates/page:num"
+
+categories_path : /categories.html
+tags_path : /tags.html
+
+org: kinlane
+repo: algo.rotoscope.work
 
 markdown: kramdown
 baseurl: http://algorithmic.rotoscope.work
@@ -29,15 +39,3 @@ include: [_pages]
 version: 0.8
 
 gems: [jekyll-paginate, jekyll-seo-tag]
-
-permalink: /:categories/:year/:month/:day/:title/
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-
-paginate: 100
-paginate_path: "/updates/page:num"
-
-categories_path : /categories.html
-tags_path : /tags.html
-
-org: kinlane
-repo: algo.rotoscope.work
