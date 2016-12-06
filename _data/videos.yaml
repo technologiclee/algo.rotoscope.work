@@ -164,8 +164,17 @@
   description: Floating above the meadow towards the abandoned orchard.
   date:   2016-11-05 02:33:00 +0700
   image: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/meadow/meadow-bright-sand-still.jpg
-  image2: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/meadow/meadow-bright-sand-still.-1200.png
-  image3: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/meadow/meadow-bright-sand-still.-600.png
+  image2: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/meadow/meadow-bright-sand-still-1200.png
+  image3: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/meadow/meadow-bright-sand-still-600.png
   videoMP4: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/meadow/meadow-publish-540.mp4
   videoYoutube: https://www.youtube.com/watch?v=KC3Hy62pSbE&t=32s
   slug: meadow
+- title:  "Canyon"
+  description: Rolling through the canyon, down the stream.
+  date:   2016-11-06 10:19:00 +0700
+  image: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/canyon/canyon-still.jpg
+  image2: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/canyon/canyon-still-1200.png
+  image3: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/canyon/canyon-still-600.png
+  videoMP4: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/canyon/canyon-publish-540.mp4
+  videoYoutube: https://youtu.be/z7gxqtfUKow
+  slug: canyon
