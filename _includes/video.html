@@ -8,6 +8,7 @@
       <!--<h3 class="page-title">{{ video.name }}</h3>-->
       <p style="padding-bottom: 5px;">{{ video.description }}</p>
     </center>
+    <center>
     <p align="center"><strong>All the Texture Filters I Considered Applying To This Video</strong></p>
     {% for image in video.images %}
       {% assign images = image[1] %}
@@ -16,6 +17,7 @@
       {% endfor %}
       <hr />
     {% endfor %}
+    </center>
     </div>
   </div>
 {% endfor %}
