@@ -1,6 +1,7 @@
 {% for video in site.data.videos %}
   {% if video.slug == page.slug %}
     <div class="page-container">
+      --{{ video.youtube_src | replace_first:'https://youtu.be/','https://www.youtube.com/embed/' }}--
       <div class="content" style="padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;">
       <iframe width="560" height="315" src="{{ video.youtube_src replace_first:'https://youtu.be/','https://www.youtube.com/embed/' }}" frameborder="0" allowfullscreen></iframe>
       <center>
