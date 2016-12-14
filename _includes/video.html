@@ -1,3 +1,7 @@
+{% assign here = site.data[page.slug] %}
+
+here: {{ here }}<br /><hr />
+
 {% for item in site.data %}
 {% if item[0] == page.slug %}
   {% assign this_item = item[1] %}
