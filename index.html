@@ -9,7 +9,7 @@ layout: default
       <style>.color{{forloop.index}}{background-color:{% if video.color %}#{{video.color}}{% else %} #3949AB {% endif %} }</style>
       {% for image in site.data.videos limit:1 %}
         <a href="{{ image }}"><img src="{{ image }}" alt="{{ video.name }}" width="300"></a>
-      {% endif %}
+      {% endfor %}
       <div class="container">
         <h4><a href="/videos/{{ video.slug }}/">{{ video.name }}</a></h4>
       </div>
