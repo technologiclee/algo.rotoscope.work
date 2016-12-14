@@ -1,0 +1,20 @@
+{
+	"filters": [
+	],
+	"0": {
+		"name": "Blossom Bar",
+		"slug": "blossombar",
+		"description": "Floating above the rapids on the river as rafters prepare to float.",
+		"youtube_src": "https://youtu.be/a8jlEWiHBE8",
+		"publish_date": "2016-11-04",
+		"images": [
+			{
+				"alien_goggles": [
+					"http://kinlane-productions.s3.amazonaws.com/algorotoscope/blossombar/alien_goggles/file-00_00_00_00.jpg",
+					"http://kinlane-productions.s3.amazonaws.com/algorotoscope/blossombar/alien_goggles/file-00_00_24_99.jpg",
+					"http://kinlane-productions.s3.amazonaws.com/algorotoscope/blossombar/alien_goggles/file-00_00_50_62.jpg"
+				]
+			}
+		]
+	}
+}
