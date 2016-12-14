@@ -15,5 +15,8 @@
 --
 
 {% for item in site.data %}
-{{ item }}<br /><hr /><br />
+here: {{ item[0] }}
+{% if item[0] == page.slug %}
+  {{ item[1] }}<br /><hr /><br />
+{% endif %}
 {% endfor %}
