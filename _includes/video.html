@@ -8,6 +8,7 @@
       <!--<h3 class="page-title">{{ video.name }}</h3>-->
       <p style="padding-bottom: 20px;">{{ video.description }}</p>
     </center>
+    <p align="center"><strong>All Texture Samples Applied To This Video</strong></p>
     {% for image in video.images %}
       {% assign images = image[1] %}
       {% for img in images %}
