@@ -2,7 +2,7 @@
   {% if video.slug == page.slug %}
     <div class="page-container">
       <div class="content" style="padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;">
-      <center><iframe width="750" src="{{ video.youtube_src | replace_first:'https://youtu.be/','https://www.youtube.com/embed/' }}" frameborder="0" allowfullscreen></iframe></center>
+      <center><iframe style="width: 100%; height: auto;" src="{{ video.youtube_src | replace_first:'https://youtu.be/','https://www.youtube.com/embed/' }}" frameborder="0" allowfullscreen></iframe></center>
       <center>
         <!--<h3 class="page-title">{{ video.name }}</h3>-->
         <p>{{ video.description }}</p>
