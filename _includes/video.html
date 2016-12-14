@@ -1,7 +1,7 @@
 {% for item in site.data %}
 {% if item[0] == page.slug %}
-  {% assign video = item[1] %}
-
+  {% assign this_item = item[1] %}
+  {% assign video = this_item %}
   --{{ video }}--
   <div class="page-container">
     <div class="content" style="padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;">
