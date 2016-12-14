@@ -1,7 +1,5 @@
-{
-	"filters": [
-	],
-	"0": {
+[
+	{
 		"name": "Blossom Bar",
 		"slug": "blossombar",
 		"description": "Floating above the rapids on the river as rafters prepare to float.",
@@ -15,4 +13,4 @@
 			]
 		}
 	}
-}
+]
