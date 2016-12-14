@@ -6,7 +6,7 @@
     <center><iframe width="660" height="415" src="{{ video.youtube_src | replace_first:'https://youtu.be/','https://www.youtube.com/embed/' }}" frameborder="0" allowfullscreen></iframe></center>
     <center>
       <!--<h3 class="page-title">{{ video.name }}</h3>-->
-      <p style="padding-bottom: 20px;">{{ video.description }}</p>
+      <p style="padding-bottom: 5px;">{{ video.description }}</p>
     </center>
     <p align="center"><strong>All Texture Samples Applied To This Video</strong></p>
     {% for image in video.images %}
