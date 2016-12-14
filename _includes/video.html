@@ -8,6 +8,15 @@
       <!--<h3 class="page-title">{{ video.name }}</h3>-->
       <p style="padding-bottom: 20px;">{{ video.description }}</p>
     </center>
+    {% for image in video.images %}
+
+      --{{ image[0] }}--<br />
+      {% assign images = image[1] %}
+      {% for img in images %}
+        <img src="{{ img }}" width="150" />
+      {% endfor %}
+      <hr />
+    {% endfor %}
     </div>
   </div>
 {% endif %}
