@@ -260,5 +260,17 @@
 			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/mountainview/gred_mash/file-00_00_40_84.jpg",
 			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/mountainview/gred_mash/file-00_00_48_18.jpg"
 		]
+	},
+	{
+		"name": "Valley River Tree",
+		"slug": "valleyrivertree",
+		"description": "View of South Eugene High School on an icy day.",
+		"youtube_src": "https://youtu.be/vpb3LPkOtdI",
+		"publish_date": null,
+		"images": [
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/valleyrivertree/yellow_paper/file-00_00_00_00.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/valleyrivertree/yellow_paper/file-00_00_11_31.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/valleyrivertree/yellow_paper/file-00_00_25_76.jpg"
+		]
 	}
 ]
