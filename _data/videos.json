@@ -264,13 +264,25 @@
 	{
 		"name": "South Eugene High",
 		"slug": "southeugenehigh",
-		"description": null,
-		"youtube_src": null,
+		"description": "View of South Eugene High School on an icy day.",
+		"youtube_src": "https://youtu.be/vpb3LPkOtdI",
 		"publish_date": null,
 		"images": [
 			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/crafty_painting/file-00_00_00_00.jpg",
 			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/crafty_painting/file-00_00_34_00.jpg",
 			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/crafty_painting/file-00_01_08_17.jpg"
+		]
+	},
+	{
+		"name": "Valley River Tree",
+		"slug": "valleyrivertree",
+		"description": "An icy tree along the river with the sun behind.",
+		"youtube_src": "https://youtu.be/vpb3LPkOtdI",
+		"publish_date": null,
+		"images": [
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/valleyrivertree/yellow_paper/file-00_00_00_00.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/valleyrivertree/yellow_paper/file-00_00_11_31.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/valleyrivertree/yellow_paper/file-00_00_25_76.jpg"
 		]
 	}
 ]
