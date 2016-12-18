@@ -6,9 +6,9 @@ layout: default
 {% for video in site.data.videos %}
   <div class="grid-item color{{forloop.index}}">
     <center>
-      <style>.color{{forloop.index}}{background-color:{% if video.color %}#{{video.color}}{% else %} #3949AB {% endif %} }</style>
+      <style>.color{{forloop.index}}{background-color:#3949AB;}</style>
       {% for image in video.images limit:1 %}
-        <a href="/videos/{{ video.slug }}/"><img src="{{ image }}" alt="{{ video.name }}" width="250"></a>
+        <a href="/videos/{{ video.slug }}/"><img src="{{ image }}" alt="{{ video.name }}" width="240"></a>
       {% endfor %}
       <div class="container">
         <h4><a href="/videos/{{ video.slug }}/">{{ video.name }}</a></h4>
