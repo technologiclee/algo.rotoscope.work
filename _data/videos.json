@@ -284,5 +284,17 @@
 			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/valleyrivertree/yellow_paper/file-00_00_11_31.jpg",
 			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/valleyrivertree/yellow_paper/file-00_00_25_76.jpg"
 		]
+	},
+	{
+		"name": "Valley River Tree Line",
+		"slug": "valleyrivertreeline",
+		"description": "Along the Valley River icy tree line as the sun sets.",
+		"youtube_src": "https://youtu.be/svBzjJrId4c",
+		"publish_date": null,
+		"images": [
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/valleyrivertreeline/clean_view/file-00_00_00_00.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/valleyrivertreeline/clean_view/file-00_00_33_33.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/valleyrivertreeline/clean_view/file-00_01_06_83.jpg"
+		]
 	}
 ]
