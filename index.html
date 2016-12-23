@@ -6,18 +6,23 @@ layout: default
 .grid
   {
   margin-left: 8%;
+  }
+
+.griditem
+  {
+  margin-left: 8%;
   width: 250px;
   margin: 20px;
   display: inline;
   position: absolute;
+  background-color:#3949AB;
   }
 </style>
 
 <div class="grid">
 {% for video in site.data.videos %}
-  <div class="grid-item color{{forloop.index}}">
+  <div class="griditem">
     <center>
-      <style>.color{{forloop.index}}{background-color:#3949AB;}</style>
       {% for image in video.images limit:1 %}
         <a href="/videos/{{ video.slug }}/"><img src="{{ image }}" alt="{{ video.name }}" width="240"></a>
       {% endfor %}
