@@ -2,28 +2,11 @@
 layout: default
 ---
 
-<style>
-.grid
-  {
-  margin-left: 10%;
-  width: 90%;
-  border: 1px solid #000;
-  }
-
-.griditem
-  {
-  width: 250px;
-  margin: 25px;
-  display: inline;
-  background-color:#3949AB;
-  border: 1px solid #FF0000;
-  }
-</style>
-
-<div class="grid">
+<div class="grid" data-masonry='{ "itemSelector": ".grid-item", "percentPosition": true, "columnWidth": 250, "gutter": 20 }' style="margin-left: 8%;">
 {% for video in site.data.videos %}
-  <div class="griditem">
+  <div class="grid-item color{{forloop.index}}">
     <center>
+      <style>.color{{forloop.index}}{background-color:#3949AB;}</style>
       {% for image in video.images limit:1 %}
         <a href="/videos/{{ video.slug }}/"><img src="{{ image }}" alt="{{ video.name }}" width="240"></a>
       {% endfor %}
@@ -34,3 +17,6 @@ layout: default
   </div>
 {% endfor %}
 </div>
+
+<script src="{{ site.baseurl }}/js/jquery.min.js"></script>
+<script src="{{ site.baseurl }}/js/masonry.pkgd.min.js"></script>
