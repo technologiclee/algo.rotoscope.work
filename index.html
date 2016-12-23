@@ -2,7 +2,17 @@
 layout: default
 ---
 
-<div class="grid" data-masonry='{ "itemSelector": ".grid-item", "percentPosition": true, "columnWidth": 250, "gutter": 20 }' style="margin-left: 8%;">
+<style>
+.grid
+  {
+  margin-left: 8%;
+  width: 250px;
+  margin: 20px;
+  display: inline;
+  }
+</style>
+
+<div class="grid">
 {% for video in site.data.videos %}
   <div class="grid-item color{{forloop.index}}">
     <center>
@@ -17,6 +27,3 @@ layout: default
   </div>
 {% endfor %}
 </div>
-
-<script src="{{ site.baseurl }}/js/jquery.min.js"></script>
-<script src="{{ site.baseurl }}/js/masonry.pkgd.min.js"></script>
