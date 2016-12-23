@@ -296,5 +296,17 @@
 			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/valleyrivertreeline/clean_view/file-00_00_33_33.jpg",
 			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/valleyrivertreeline/clean_view/file-00_01_06_83.jpg"
 		]
+	},
+	{
+		"name": "Covered Bridge",
+		"slug": "coveredbridge",
+		"description": "Up the river to the covered bridge.",
+		"youtube_src": "https://youtu.be/anQf7MBBq4k",
+		"publish_date": null,
+		"images": [
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/creativity/file-00_00_00_00.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/creativity/file-00_00_30_80.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/creativity/file-00_01_01_90.jpg"
+		]
 	}
 ]
