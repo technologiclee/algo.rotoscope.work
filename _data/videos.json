@@ -298,6 +298,18 @@
 		]
 	},
 	{
+		"name": "Snowy Field",
+		"slug": "snowyfield",
+		"description": "Traveling up a snowy field in the cascade mountains.",
+		"youtube_src": "https://youtu.be/ZRIsAicDesE",
+		"publish_date": null,
+		"images": [
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/dark_rain/file-00_00_00_00.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/dark_rain/file-00_00_18_15.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/dark_rain/file-00_00_36_50.jpg"
+		]
+	},
+	{
 		"name": "Covered Bridge",
 		"slug": "coveredbridge",
 		"description": "Up the river to the covered bridge.",
@@ -307,6 +319,18 @@
 			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/creativity/file-00_00_00_00.jpg",
 			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/creativity/file-00_00_30_80.jpg",
 			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/creativity/file-00_01_01_90.jpg"
+		]
+	},
+	{
+		"name": "Portland Penny Diner",
+		"slug": "portlandpennydiner",
+		"description": "The Portland Penny Diner sign going round and round.",
+		"youtube_src": "https://youtu.be/27Cy6Dux3e8",
+		"publish_date": null,
+		"images": [
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/gred_mash/file-00_00_00_00.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/gred_mash/file-00_00_14_15.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/gred_mash/file-00_00_28_43.jpg"
 		]
 	}
 ]
