@@ -136,10 +136,10 @@
 				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/hot_spicy/file-00_00_14_15.jpg",
 				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/hot_spicy/file-00_00_28_43.jpg"
 			],
-			"kandinsky_black_violet": [
-				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/kandinsky_black_violet/file-00_00_00_00.jpg",
-				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/kandinsky_black_violet/file-00_00_14_15.jpg",
-				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/kandinsky_black_violet/file-00_00_28_43.jpg"
+			"kandinsky_bv": [
+				null,
+				null,
+				null
 			],
 			"matrix": [
 				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/matrix/file-00_00_00_00.jpg",
