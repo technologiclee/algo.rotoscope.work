@@ -334,6 +334,30 @@
 		]
 	},
 	{
+		"name": "California Republic",
+		"slug": "californiarepublic",
+		"description": "A tattered California Republic flag waving in the wind.",
+		"youtube_src": "https://youtu.be/V2645uM_sv4",
+		"publish_date": null,
+		"images": [
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/californiarepublic/smooth_ride/file-00_00_00_00.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/californiarepublic/smooth_ride/file-00_00_08_58.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/californiarepublic/smooth_ride/file-00_00_17_22.jpg"
+		]
+	},
+	{
+		"name": "Mount Shasta",
+		"slug": "mountshasta",
+		"description": "Mount Shasta in the sun.",
+		"youtube_src": "https://youtu.be/DGYU03Ty5wY",
+		"publish_date": null,
+		"images": [
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/mountshasta/gan_vogh/file-00_00_00_00.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/mountshasta/gan_vogh/file-00_00_51_69.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/mountshasta/gan_vogh/file-00_02_00_09.jpg"
+		]
+	},
+	{
 		"name": "Portland Penny Diner",
 		"slug": "portlandpennydiner",
 		"description": "The Portland Penny Diner sign going round and round.",
