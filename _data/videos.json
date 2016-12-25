@@ -322,6 +322,18 @@
 		]
 	},
 	{
+		"name": "Hermosa Beach",
+		"slug": "hermosabeach",
+		"description": "The people walking from the pier in Hermosa Beach.",
+		"youtube_src": "https://youtu.be/ftq7pZa2bBk",
+		"publish_date": null,
+		"images": [
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/hermosabeach/post_modern/file-00_00_00_00.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/hermosabeach/post_modern/file-00_00_11_64.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/hermosabeach/post_modern/file-00_00_23_42.jpg"
+		]
+	},
+	{
 		"name": "Portland Penny Diner",
 		"slug": "portlandpennydiner",
 		"description": "The Portland Penny Diner sign going round and round.",
