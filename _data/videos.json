@@ -322,6 +322,18 @@
 		]
 	},
 	{
+		"name": "Castle Crags",
+		"slug": "castlecrags",
+		"description": "Above the forest towards the Castle Crags.",
+		"youtube_src": "https://youtu.be/g31COWWkXTc",
+		"publish_date": null,
+		"images": [
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/castlecrags/sunday/file-00_00_00_00.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/castlecrags/sunday/file-00_00_22_16.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/castlecrags/sunday/file-00_00_44_64.jpg"
+		]
+	},
+	{
 		"name": "Hermosa Beach",
 		"slug": "hermosabeach",
 		"description": "The people walking from the pier in Hermosa Beach.",
@@ -331,6 +343,18 @@
 			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/hermosabeach/post_modern/file-00_00_00_00.jpg",
 			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/hermosabeach/post_modern/file-00_00_11_64.jpg",
 			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/hermosabeach/post_modern/file-00_00_23_42.jpg"
+		]
+	},
+	{
+		"name": "Frog Ponds",
+		"slug": "frongponds",
+		"description": "Flying above frog pond in the mountains.",
+		"youtube_src": "https://youtu.be/qD5tAXCyZlk",
+		"publish_date": null,
+		"images": [
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/frongponds/creativity/file-00_00_00_00.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/frongponds/creativity/file-00_01_21_21.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/frongponds/creativity/file-00_02_42_76.jpg"
 		]
 	},
 	{
@@ -367,6 +391,30 @@
 			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/gred_mash/file-00_00_00_00.jpg",
 			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/gred_mash/file-00_00_14_15.jpg",
 			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/gred_mash/file-00_00_28_43.jpg"
+		]
+	},
+	{
+		"name": "Swinging Bridge",
+		"slug": "swingingbridge",
+		"description": "Beneath the swinging bridge along the Illinois River.",
+		"youtube_src": "https://youtu.be/3rj78-lOHvc",
+		"publish_date": null,
+		"images": [
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/swingingbridge/post_modern/file-00_00_00_00.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/swingingbridge/post_modern/file-00_00_08_31.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/swingingbridge/post_modern/file-00_00_16_88.jpg"
+		]
+	},
+	{
+		"name": "Peterson Mountain",
+		"slug": "petersonmountain",
+		"description": "Along the mountain range to Peterson Mountain.",
+		"youtube_src": "https://youtu.be/reDYZQZSmdw",
+		"publish_date": null,
+		"images": [
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/bright_sand/file-00_00_00_00.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/bright_sand/file-00_00_23_82.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/bright_sand/file-00_00_47_85.jpg"
 		]
 	}
 ]
