@@ -416,5 +416,14 @@
 			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/bright_sand/file-00_00_23_82.jpg",
 			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/bright_sand/file-00_00_47_85.jpg"
 		]
+	},
+	{
+		"name": "Los Angeles From The East One",
+		"slug": "losangelescloudy",
+		"description": "A shot of Los Angeles from East LA on a cloudy day.",
+		"youtube_src": null,
+		"publish_date": null,
+		"images": [
+		]
 	}
 ]
