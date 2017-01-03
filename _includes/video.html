@@ -4,7 +4,7 @@
   <div class="page-container">
     <div class="content" style="padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;">
 
-    {% if video.youtube_src == '' %}
+    {% if video.youtube_src != null and video.youtube_src != empty and video.youtube_src != '' %}
       <p align="center"><strong>Still Processing Video!</strong></p>
     {% else %}
       <center><iframe width="660" height="415" src="{{ video.youtube_src | replace_first:'https://youtu.be/','https://www.youtube.com/embed/' }}" frameborder="0" allowfullscreen></iframe></center>
