@@ -5,7 +5,7 @@
     <div class="content" style="padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;">
 
     {% if video.youtube_src == null or video.youtube_src == empty and video.youtube_src == '' %}
-      <p align="center"><strong>Still Processing Video!</strong></p>
+      <p align="center" style="color: #FF0000;"><strong>[Still Processing Video]</strong></p>
     {% else %}
       <center><iframe width="660" height="415" src="{{ video.youtube_src | replace_first:'https://youtu.be/','https://www.youtube.com/embed/' }}" frameborder="0" allowfullscreen></iframe></center>
     {% endif %}
@@ -14,7 +14,7 @@
       <p style="padding-bottom: 5px;">{{ video.description }}</p>
     </center>
     <center>
-    <p align="center"><strong>All the Texture Filters I Considered Applying To This Video</strong></p>
+    <p align="center"><strong>All the Texture Filters I Am Considering Applying To This Video</strong></p>
     {% for image in video.images %}
       {% assign images = image[1] %}
       {% for img in images %}
