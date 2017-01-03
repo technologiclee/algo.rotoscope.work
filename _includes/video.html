@@ -3,7 +3,12 @@
 {% for video in videos %}
   <div class="page-container">
     <div class="content" style="padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;">
-    <center><iframe width="660" height="415" src="{{ video.youtube_src | replace_first:'https://youtu.be/','https://www.youtube.com/embed/' }}" frameborder="0" allowfullscreen></iframe></center>
+
+    {% if video.youtube_src == '' %}
+      <p align="center"><strong>Still Processing Video!</strong></p>
+    {% else %}
+      <center><iframe width="660" height="415" src="{{ video.youtube_src | replace_first:'https://youtu.be/','https://www.youtube.com/embed/' }}" frameborder="0" allowfullscreen></iframe></center>
+    {% endif %}
     <center>
       <!--<h3 class="page-title">{{ video.name }}</h3>-->
       <p style="padding-bottom: 5px;">{{ video.description }}</p>
