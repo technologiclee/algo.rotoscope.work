@@ -428,5 +428,14 @@
 			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/light_dali/file-00_00_35_50.jpg",
 			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/light_dali/file-00_01_12_91.jpg"
 		]
+	},
+	{
+		"name": "LA From The East Two",
+		"slug": "losangelescloudy2",
+		"description": "A shot of Los Angeles from East LA on a cloudy day.",
+		"youtube_src": null,
+		"publish_date": null,
+		"images": [
+		]
 	}
 ]
