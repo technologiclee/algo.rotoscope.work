@@ -2,9 +2,9 @@
 layout: default
 ---
 
-<div class="grid" data-masonry='{ "itemSelector": ".grid-item", "percentPosition": true, "columnWidth": 250, "gutter": 20 }' style="margin-left: 8%;">
+<div class="grid" data-masonry='{ "itemSelector": ".grid-item", "percentPosition": true, "columnWidth": 250, "gutter": 20 }' style="margin-left: 8%;" style="width: 250px; height: 250px;">
 {% for video in site.data.videos %}
-  <div class="grid-item color{{forloop.index}}" width="250" height="250">
+  <div class="grid-item color{{forloop.index}}">
     <center>
       <style>.color{{forloop.index}}{background-color:#3949AB;}</style>
       {% for image in video.images limit:1 %}
